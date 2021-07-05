@@ -1,0 +1,41 @@
+html, body{
+  font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
+
+body{
+  margin:0 auto;
+  border:0 Auto;
+  background-color: #FFFAF0;
+}
+
+.carousel-inner img{
+  margin:auto;
+  border:10rem;
+  padding:50px;
+  width:50%;
+  height:50%;
+}
+
+#memes{
+  padding-top:50px;
+}
+
+#nav-tabContent{
+  padding-bottom: 10rem;
+}
+
+.SCHEDUEL, .members, .memess{
+  padding: 10px 50px;
+}
+footer{
+  color: #d5d5d5;
+  font: 12px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif;  word-spacing: 30px;
+  line-height: 5px;
+  padding-top: 50px;
+  background-color: #3f3f3f;
+  }
+footer img{
+  padding-left: 100px;
+  width: 30%;
+  height: 30%;
+}
